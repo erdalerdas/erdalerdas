@@ -12,7 +12,7 @@ I'm a 23-year-old urban planner passionate about data analytics and exploring ne
   - **Description:** This project aims to develop a Convolutional Neural Network (CNN) model trained with satellite imagery to optimize the site analysis process of urban planners and landscape architects.
 
 ### Skills and Interests 💻
-- **Skills:** Geographic data analysis, Image processing, NLP models
+- **Skills:** Geospatial Data Analysis, Image processing, NLP models
 - **Programming Languages:** Python, SQL
 - **Interests:** CNN, NLP, LLM, Geospatial Analysis
 
