@@ -5,7 +5,7 @@
 -->
 
 ### About Me ℹ️
-I'm a 23-year-old urban planner passionate about data analytics and exploring new technologies. Currently focusing on developing skills in data analysis and leveraging AI models for urban planning and landscape architecture.
+I am a 23-year-old urban planner who wants to specialize in Data Analytics and Data Science. I have proficient skills in data analysis. For my internships, I gained a lot of experience in this field. I am interested in new data-related technologies and enjoy researching and improving myself.
 
 ### Project Portfolio 🌐
 - **Project:** [Accelerating Urban Analysis with CNN and Satellite Imagery](https://github.com/erdalerdas/Aygaz_Artificial_Intelligence_Project_Bootcamp)
