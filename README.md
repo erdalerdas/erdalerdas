@@ -14,7 +14,7 @@ I am a 23-year-old urban planner who wants to specialize in Data Analytics and D
 ### Skills and Interests 💻
 - **Skills:** Geospatial Data Analysis, Image processing, NLP models
 - **Programming Languages:** Python, SQL
-- **Interests:** CNN, NLP, LLM, Geospatial Analysis
+- **Interests:** CNN, automation in planning, Geospatial Analysis, Geosptail Data science
 
 ### Contact Me 📫
 - **Email:** erdalerdas.ee@gmail.com
