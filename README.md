@@ -32,11 +32,6 @@ I am a passionate Urban Planner and Data Analyst based in Istanbul, specializing
 *Developed a Convolutional Neural Network (CNN) model to automate site analysis using satellite imagery.*
 * **Tech:** Python, TensorFlow, Satellite Imagery.
 * **Goal:** Optimizing the workflow for urban planners by automating land use classification.
-
-#### 🌳 [Karşıyaka Open Source Database](https://github.com/erdalerdas) *(Link to Repo if available)*
-*Created an open-source database for neighborhood park analysis focusing on "Child-Friendly Spaces" and "Urban Mobility".*
-* **Impact:** Collected and processed field data, transferred to **OpenStreetMap** and **QGIS** for ecological evaluation using **i-Tree**.
-
 ---
 
 ### 📊 GitHub Stats
