@@ -42,6 +42,6 @@ I am a passionate Urban Planner and Data Analyst based in Istanbul, specializing
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/erdal-erdaş-4249a721b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Erdal%20Erdaş-0077B5?style=for-the-badge&logo=linkedin" alt="erdalerdas" /></a>
+<a href="www.linkedin.com/in/erdal-erdas-4249a721b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Erdal%20Erdaş-0077B5?style=for-the-badge&logo=linkedin" alt="erdalerdas" /></a>
 <a href="mailto:erdalerdas.ee@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
