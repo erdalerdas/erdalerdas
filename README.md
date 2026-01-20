@@ -25,5 +25,5 @@ Feel free to reach out via email or LinkedIn!
 ---
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![GeoSpatialData Analysis]([https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ3d2F3cmUyc24wNzlsc3IzbHRzMmIydnF2c2F5eGd6bHdocXYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2jjuAZzDSVLZ5kI/giphy.gif))
+![GeoSpatialData Analysis](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
 
